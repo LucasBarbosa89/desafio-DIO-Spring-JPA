@@ -16,7 +16,7 @@
 
 <ol>
     <li> Apresentação do Projeto Base </li>
-    <li> Configuração do banco de dados (SGBD <em>PostgreSQL</em>)</li>
+    <li> Configuração do banco de dados (SGBD <em>MySQL</em>)</li>
     <li> Aplicando as <em>annotations</em></li>
     <li>Execução do fluxo back-end: <em>Controller - Service - Repository</em></li>
     <li>Validação - <em>Hibernate Validator</em> </li>
