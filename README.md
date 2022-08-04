@@ -27,11 +27,11 @@
 
 <ul>
     <li>IDE IntelliJ</li>
-    <li>Java 11</li>
+    <li>Java 8</li>
     <li>Maven</li>
     <li><strong>Spring Web</strong></li>
     <li><strong>Spring Data JPA</strong></li>
-    <li><strong>PostgreSQL Driver</strong></li>
+    <li><strong>MySQL Driver</strong></li>
     <li><strong>Hibernate Validator</strong></li>
     <li>Lombok</li>
     <li>Postman</li>
